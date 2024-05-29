@@ -5,7 +5,8 @@ In this project, we programmed a robot in order to make it navigate inside an AW
 The path was defined using a Q-learning algorithm. To ensure accurate movement along the path, we implemented a closed-loop control system, which continuously adjusts the robot's actions based on feedback from its sensors.  
 Additionally, we explored the feasibility of using RFID technology for position tracking. Three RFID tags were placed around the warehouse, and the robot's position was estimated based on the signals received from these tags. This aspect of the project aimed to evaluate whether RFID-based positioning could provide reliable location data to support the robot's navigation.  
 
-
+## Detailed description of the project:
+Open the file: https://github.com/Cirocirotondo/rob_prog_ws/blob/master/Robotics_Programming.pdf
 
 
 ## How to run the code:
