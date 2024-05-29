@@ -1,0 +1,2 @@
+aws-robomaker-small-warehouse-world:move_robot:rfid_sensor:rfid_simulator_test
+-DCATKIN_DEVEL_PREFIX=/home/simone/ROS/rob_prog_ws/devel -DCMAKE_INSTALL_PREFIX=/home/simone/ROS/rob_prog_ws/install -G Unix Makefiles
