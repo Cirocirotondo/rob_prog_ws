@@ -1,6 +1,8 @@
 AUTONOMOUS NAVIGATION IN AN AWS WAREHOUSE USING REINFORCEMENT LEARNING
 ==============
 
+![alt text](https://github.com/Cirocirotondo/rob_prog_ws/blob/master/robot.png)
+
 In this project, we programmed a robot in order to make it navigate inside an AWS warehouse with the aim of reaching a target.  
 The path was defined using a Q-learning algorithm. To ensure accurate movement along the path, we implemented a closed-loop control system, which continuously adjusts the robot's actions based on feedback from its sensors.  
 Additionally, we explored the feasibility of using RFID technology for position tracking. Three RFID tags were placed around the warehouse, and the robot's position was estimated based on the signals received from these tags. This aspect of the project aimed to evaluate whether RFID-based positioning could provide reliable location data to support the robot's navigation.  
