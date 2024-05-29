@@ -1,4 +1,5 @@
-# AUTONOMOUS NAVIGATION IN AN AWS WAREHOUSE USING REINFORCEMENT LEARNING
+AUTONOMOUS NAVIGATION IN AN AWS WAREHOUSE USING REINFORCEMENT LEARNING
+==============
 
 In this project, we programmed a robot in order to make it navigate inside an AWS warehouse with the aim of reaching a target.
 The path was defined using a Q-learning algorithm. To ensure accurate movement along the path, we implemented a closed-loop control system, which continuously adjusts the robot's actions based on feedback from its sensors.
